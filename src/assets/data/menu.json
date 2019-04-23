@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "american-football",
+    "name": "Action Sheet",
+    "redirectTo": "/action-sheet"
+  },
+  {
+    "icon": "appstore",
+    "name": "Alert",
+    "redirectTo": "/alert"
+  },
+  {
+    "icon": "text",
+    "name": "Textos",
+    "redirectTo": "/textos"
+  }
+]
